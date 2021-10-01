@@ -9,13 +9,15 @@
     font-weight: 400;
 }
 .btn-regular{
-    background-color: goldenrod;
-    width: 150px;
-    height: 25px;
-    border: 1px solid gray;
+    background-color: orangered;
+    padding: 5px 15px;
+    margin: 5px 0;
+    font-size: 15px;
+    color: white;
+    border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 .icon-color{
-    color: gold;
+    color: orangered;
 }
